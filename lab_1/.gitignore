@@ -46,3 +46,11 @@ app.*.map.json
 
 # Widget Preview related
 .widget_preview/
+
+# Ignore platform-specific runners
+/android/
+/ios/
+/linux/
+/macos/
+/web/
+/windows/

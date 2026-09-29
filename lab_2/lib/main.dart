@@ -14,7 +14,7 @@ class LearningApp extends StatelessWidget {
       theme: ThemeData(
         useMaterial3: true,
         scaffoldBackgroundColor: Colors.white,
-        fontFamily: 'Roboto',
+        fontFamily: 'Poppins',
       ),
       home: const HomeScreen(),
     );
